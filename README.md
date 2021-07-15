@@ -1,6 +1,7 @@
 # Game-Collection-Python
 
-## A collection of simple games designed using Python (PyGame, turtle, etc...)
+## A collection of simple games designed using Python (PyGame, turtle, etc...) 
+###### Being worked on...
 #
 ### **Space Invader** </br> 
 Inspired by a tutorial, this is a simple Space Invader game which uses the basic PyGame concepts. </br>
